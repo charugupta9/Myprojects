@@ -1,0 +1,25 @@
+.container{
+    text-align: center;
+    margin-top: 23px;
+}
+table {
+    margin: auto;
+    width: 400px;
+    height: 400px;
+    background-color: black;
+}
+input {
+    font-size: 34px;
+}
+button{
+    font-size: 40px;
+    width: 100px;
+    height: 70px;
+}
+.calculator {
+    background-color: black;
+    height: 450px;
+    padding: 20px;
+    width: 450px;
+    margin: auto;
+}
